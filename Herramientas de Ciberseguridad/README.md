@@ -1,6 +1,6 @@
-# Python
+# Herramientas de ciberseguridad
 
-Repositorio de herramientas y scripts desarrollados en Python enfocados en redes, automatización y ciberseguridad.  
+Repositorio de herramientas y scripts desarrollados en Python enfocados en ciberseguridad.  
 El objetivo del proyecto es reunir utilidades prácticas, educativas y escalables que puedan ampliarse con nuevos proyectos en el futuro.
 
 ---
