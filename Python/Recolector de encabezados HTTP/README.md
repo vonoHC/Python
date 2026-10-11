@@ -55,7 +55,7 @@ guest@wrapper:~$ show heads
 Clona el repositorio:
 
 ```
-git clone https://github.com/usuario/Recolector%20de%20encabezados%20HTTP
+git clone https://github.com/usuario/Recolector-de-encabezados-HTTP
 cd header-wrapper
 ```
 
