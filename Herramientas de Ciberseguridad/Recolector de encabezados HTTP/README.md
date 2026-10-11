@@ -55,8 +55,8 @@ guest@wrapper:~$ show heads
 Clona el repositorio:
 
 ```
-git clone https://github.com/usuario/Recolector-de-encabezados-HTTP
-cd header-wrapper
+git clone https://github.com/vonoHC/Python.git
+cd Python/'Herramientas de Ciberseguridad'/'Recolector de encabezados HTTP'
 ```
 
 Instala las dependencias:
