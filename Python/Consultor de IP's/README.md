@@ -1,4 +1,4 @@
-# IP Query Tool
+# Herramienta para consultar IP'S
 
 Herramienta desarrollada en Python para consultar información detallada sobre direcciones IP, dominios o redes utilizando la API de `ip.guide`.
 
