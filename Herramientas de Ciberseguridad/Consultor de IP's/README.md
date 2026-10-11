@@ -28,6 +28,15 @@ pip install requests
 
 ---
 
+## Instalación
+
+Clona el repositorio:
+
+```
+git clone https://github.com/vonoHC/Python.git
+cd Python/'Herramientas de Ciberseguridad'/"Consultor de IP's"
+```
+
 # Uso
 
 ## Sintaxis
