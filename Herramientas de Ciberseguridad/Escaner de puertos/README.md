@@ -129,14 +129,15 @@ El escáner realiza los siguientes pasos:
 - UDP envía un paquete y espera respuesta.
 - Algunos puertos UDP pueden no responder aunque estén abiertos.
 - Los resultados se muestran ordenados al finalizar el escaneo.
-- La opción `--bannergrapper` aún no está implementada.
+- La opción `--bannergrabber` aún no está implementada.
 
 ---
 
 # Tecnologías utilizadas
 
 - Python 3
-- Socket Programming
+- Libreria Socket
 - Multithreading
-- ThreadPoolExecutor
+- Argparse
+
 
