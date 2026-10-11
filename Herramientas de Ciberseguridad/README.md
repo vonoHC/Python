@@ -19,7 +19,7 @@ El objetivo del proyecto es reunir utilidades prácticas, educativas y escalable
 
 ---
 
-## Escaner de puertos multihilo
+## Escaner de puertos 
 
 Escáner de puertos TCP desarrollado en Python utilizando multihilo para acelerar el proceso de análisis.
 
